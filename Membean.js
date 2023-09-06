@@ -5,8 +5,8 @@ var interval = {
 	"deltest": "",
 } 
 var bool = {
-	"bot": false,
-	"on": false,
+	"bot": true,
+	"on": true,
 } 
 var object = {
 	"div": "",
